@@ -1,0 +1,26 @@
+body{
+    background:#FAD3CF;
+    color: #060608;
+    font-family: "Courier New", Courier, monospace;
+    text-align: left;
+            }
+    h1{
+        color: #2470A0;
+        font-family: Helvetica, serif;
+        border-style: double;
+        border-width: medium;
+        border-color: #68329C;
+
+    }
+    h2,h3{
+        color: #68329C;
+        font-family: Arial, Helvetica, sans-serif
+    }
+    h4{
+        color: #A696C8;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    h5{
+        color: #478FD1;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    }
