@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+   background: rgb(215,87,105);
+   background: linear-gradient(348deg, rgba(215,87,105,1) 0%,
+    rgba(189,36,187,1) 50%, rgba(205,63,103,1) 100%);
+    }
+
+table,th,td{
+    align-items: center;
+    border: 2px solid darkslateblue;
+}
+h1{
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 40px;
+}
+h2{
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 30px; 
+}
+h3{
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    font-size: 30px;
+}
+p{
+    font-family: Perpetua, Baskerville, serif;
+    font-size: 25px;
+}
+table{
+    font-family: Perpetua, Baskerville, serif;
+    font-size: 25px;
+}
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
