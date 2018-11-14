@@ -1,0 +1,43 @@
+body{
+   background: linear-gradient(348deg, rgba(130,204,241,1) 0%,
+    rgba(239,198,106,1) 50%, rgba(197,157,206,1) 100%);
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+.discography{
+    text-align: center;
+}
+.album-img{
+    text-align: center;
+}
+ul{
+    list-style-type:none;
+}
+
+.banner {
+    background: #000;
+}
+
+h1,h2{
+    color: #9996cb;
+    font-family: "Neue Helvetica", sans-serif;
+}
+h4,h5{
+    font-family: "Neue Helvetica", sans-serif;
+}
+div{
+    font-family: Tahoma, Geneva, sans-serif;
+}
+p{
+    font-family: Tahoma, Geneva, sans-serif;
+}
